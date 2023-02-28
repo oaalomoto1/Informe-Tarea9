@@ -4,17 +4,17 @@
 
 ***1.1 OBJETIVO GENERAL.***
 
-*Aprender análisis de ramas, lazos y nodos así como el principio de magnetismo y electromagnetismo, mediante el uso de mapas conceptuales y el desarrollo de ejercicios planteados en los dos capítulos, para obtener un mayor grado de conocimiento en lo que respecta esta parte de la materia.* 
+*Estudiar la importancia que tiene el estudio de circuitos RLC y resonancia, así como filtros pasivos en circuitos eléctricos mediante el uso de mapas conceptuales, diagramas, flujogramas y el desarrollo de ejercicios planteados en los dos capítulos, para obtener un mayor dominio en lo que respecta la materia.* 
 
 ***1.2 OBJETIVOS ESPECÍFICOS.***
 
-*-Investigar los principales métodos de resolución de circuitos electrónicos.* 
+*-Analizar el comportamiento de los circuitos RLC tanto en serie como en paralelo.*
 
-*-Identificar las diferencias entre el análisis de ramas, lazos y nodos.*
+*-Indagar lo fundamental que es el uso de filtros en circuitos eléctricos.*
 
-*-Estudiar lo que abarca los temas sobre magnetismo y electromagnetismo.*
+*-Identificar todos los tipos de filtros y sus respectivas características.*
 
-*-Aplicar los conocimientos de los métodos de análisis, ramas, lazos y nodos en la resolución de circuitos.*
+*-Desarrollar y resolver los ejercicios planteados en estas dos unidades.*
 
 
 ## 2. MARCO TEÓRICO (RESUMEN)
